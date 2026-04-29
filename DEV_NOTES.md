@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Added basic usage examples to README
 - Added CONTRIBUTING.md stub
+
+## 2026-04-29
+- Consolidated duplicate helper functions
+- Fixed minor edge case in input handling
