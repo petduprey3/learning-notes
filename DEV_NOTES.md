@@ -24,3 +24,8 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Updated dependencies to latest stable versions
 - Added type hints to helper functions
+
+## 2026-04-29
+- Documented config options
+- Fixed minor edge case in input handling
+- Added basic usage examples to README
